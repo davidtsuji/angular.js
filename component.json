@@ -1,0 +1,10 @@
+{
+	"name": "angular",
+	"main": "angular.js",
+	"scripts":[
+		"angular.js"
+	],
+	"dependencies": {
+		"component/jquery": "*"
+	}
+}
